@@ -1,7 +1,9 @@
+
 body{
-    background-image: url(foto/art.jpg);
     font-family: Century Gothic;
+    background-image: url(images/art.jpg);
 }
+
 
 
 
@@ -13,4 +15,5 @@ img{
     border-radius: 10px;
 
 }
+
 
